@@ -1,0 +1,64 @@
+[
+    {
+        "id":1,
+        "image":"src/assets/Images/html-colored.png",
+        "detail":"Using HTML5 for web development process"
+    },
+    {
+        "id":2,
+        "image":"src/assets/Images/css-file (1).png",
+        "detail":"Using CSS3 for web development process"
+    },
+    {
+        "id":3,
+        "image":"src/assets/Images/java-script.png",
+        "detail":"Using JavaScript for web development process"
+    },
+    {
+        "id":4,
+        "image":"src/assets/Images/bootstrap-4-logo.png",
+        "detail":"Using HTML5 for web development process"
+    },
+    {
+        "id":5,
+        "image":"src/assets/Images/MVC-Logo.jpg",
+        "detail":"Using Asp .Net MVC for web development process"
+    },
+    {
+        "id":6,
+        "image":"src/assets/Images/aspnetcoremvc-logo.png",
+        "detail":"Using Asp .Net Core MVC for web development process"
+    },
+    {
+        "id":7,
+        "image":"src/assets/Images/c#logo.png",
+        "detail":"Using Asp .Net Core MVC for web development process"
+    },
+    {
+        "id":8,
+        "image":"src/assets/Images/linq.png",
+        "detail":"Using Asp .Net Core MVC for web development process"
+    },
+    {
+        "id":9,
+        "image":"src/assets/Images/sql-blue.png",
+        "detail":"Using Asp .Net Core MVC for web development process"
+    },
+    {
+        "id":10,
+        "image":"src/assets/Images/postgresql_original.png",
+        "detail":"Using Asp .Net Core MVC for web development process"
+    },
+    {
+        "id":11,
+        "image":"src/assets/Images/mongodb-logo.png",
+        "detail":"Using Asp .Net Core MVC for web development process"
+    },
+    {
+        "id":12,
+        "image":"src/assets/Images/react-1-logo.png",
+        "detail":"Using Asp .Net Core MVC for web development process"
+    }
+    
+
+]
