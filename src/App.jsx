@@ -8,7 +8,7 @@ import Skills from './Components/Skills'
 import Education from './Components/Education'
 import Experience from './Components/Experience'
 import ContectMe from './Components/Contactme'
-import Footer from './Components/footer'
+import Footer from './Components/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
