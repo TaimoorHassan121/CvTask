@@ -9,10 +9,10 @@ const Experties = () => {
             <h2 className="mb-5"><span className="text-primary h2 ">____ </span>My Experties</h2>
         <div className="row">
             <div className="col-sm-4 col-md-4 mb-3">
-                <Image src="src/assets/Images/logo_web_developer.gif" style={{height:"50%"}} />
+                <img src="src/assets/Images/logo_web_developer.gif" style={{height:"50%"}} />
             </div>
             <div className="col-sm-4 col-md-4 mb-3 ">
-                <Image src="src/assets/Images/Web-design.jpg" style={{height:"50%"}} />
+                <img src="src/assets/Images/Web-design.jpg" style={{height:"50%"}} />
             </div>
       
         </div>

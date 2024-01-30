@@ -6,7 +6,7 @@ const ContectMe = () => {
         <div className="container mb-5">
             <div className="row">
                 <div className="col-lg-6 col-md-6 col-sm-6">
-                    <Image src="src/assets/Images/contact.jpg" style={{ width: "100%", height: "100%" }} />
+                    <img src="src/assets/Images/contact.jpg" style={{ width: "100%", height: "100%" }} />
                 </div>
                 <div className="col-lg-6 col-md-12">
                         <div className="contact-form">

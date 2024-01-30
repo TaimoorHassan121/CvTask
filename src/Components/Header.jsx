@@ -5,7 +5,7 @@ const Header = () =>{
     return(
         <nav className="navbar navbar-expand-lg  navbar-dark bg-dark">
         <div className="container d-flex">
-            <Image src="src/assets/Images/mth-logo.jpg" style={{height:60}} />
+            <img src="src/assets/Images/mth-logo.jpg" style={{height:60}} />
           <a className="navbar-brand" href="/">Muhammad Taimoor Hassan</a>
           {/* <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>

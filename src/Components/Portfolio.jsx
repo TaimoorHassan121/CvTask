@@ -23,7 +23,7 @@ const Portfolio = () => {
                 <div className="col-6 ">
                     {/* <Image src="src/assets/Images/shape1.png" style={{ height: 200, width: "50%" }} /> */}
 
-                    <Image src="src/assets/Images/MyPic.jpg" style={{ height: 400, width: "80%" }} />
+                    <img src="src/assets/Images/MyPic.jpg" style={{ height: 400, width: "80%" }} />
                 </div>
             </div>
 
